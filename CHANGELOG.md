@@ -1,4 +1,13 @@
 # Change Log
+**Release Notes for v.0.4**
+* Updated index.html
+* Added Content in the "What is UNF-AIRO" seci
+	* What is UNF-AIRO
+		* Detail: "UNF-AIRO stands for Artificial Intelligence Research Organization"
+
+
+
+
 **Release Notes for v.0.3**
 * Updated index.html
 * Added the Following Sections
