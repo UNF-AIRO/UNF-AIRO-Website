@@ -1,4 +1,11 @@
 # Change Log
+**Release Notes for v.0.5**
+* Updated the Website
+* Added Buttons 
+* Updated Contents
+* And More.
+
+
 **Release Notes for v.0.4**
 * Updated index.html
 * Added Content in the "What is UNF-AIRO" section
