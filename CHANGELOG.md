@@ -1,4 +1,11 @@
 # Change Log
+**Release Notes for v.0.5.1**
+* Updated the Website
+* Added and updated content in index.html
+* Line 106-107
+
+
+
 **Release Notes for v.0.5**
 * Updated the Website
 * Added Buttons 
