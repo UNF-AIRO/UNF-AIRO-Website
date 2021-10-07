@@ -1,9 +1,5 @@
-<center> 
-<img src="Logo.png" alt="drawing" width="200"/>
-</center>
+<img src="Logo.png" alt="drawing" width="200" align="center"> 
 
-<center> 
 
-# UNF-AIRO-Website 
 
-</center>
+<h1 align="center">UNF-AIRO-Website</h1>
