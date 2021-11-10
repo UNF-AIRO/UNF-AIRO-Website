@@ -1,4 +1,8 @@
 # Change Log
+**Release Notes for v.0.7**
+* Introducing Articles 
+	* Articles is a great way of showing the progress of UNF-AIRO. 
+
 **Release Notes for v.0.6**
 * Updated the README.md
 	* Centered the content of the README.md
