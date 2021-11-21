@@ -6,6 +6,9 @@
 * Created a test article. 
 * The files is located in UNF-AIRO-Website/
 
+* Move test article into folder
+* The files is located in UNF-AIRO-Website/
+
 **Release Notes for v.0.7**
 * Introducing Articles 
 * Articles is a great way of showing the progress of UNF-AIRO. 
