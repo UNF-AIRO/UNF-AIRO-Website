@@ -9,9 +9,6 @@
 * Move test article into folder
 * The files is located in UNF-AIRO-Website/
 
-* Created the _config.yml file for displaying markdown 
-
-
 **Release Notes for v.0.7**
 * Introducing Articles 
 * Articles is a great way of showing the progress of UNF-AIRO. 
