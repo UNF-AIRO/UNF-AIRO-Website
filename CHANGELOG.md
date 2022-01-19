@@ -1,4 +1,11 @@
 # Change Log
+**Release Notes for v.0.9**
+
+* Updated the Discord Server Link
+
+
+
+
 **Release Notes for v.0.8**
 * Created the CHANGELOG.sh file to efficiently open 
   the CHANGELOG.md file.
@@ -9,9 +16,16 @@
 * Move test article into folder
 * The files is located in UNF-AIRO-Website/
 
+
+
+
+
 **Release Notes for v.0.7**
 * Introducing Articles 
 * Articles is a great way of showing the progress of UNF-AIRO. 
+
+
+
 
 **Release Notes for v.0.6**
 * Updated the README.md
@@ -21,6 +35,9 @@
 * Updated Website Content
 * Added Content under the Vice President Section. @AndreasInk
 * This file is located in "UNF-AIRO/UNF-AIRO-Website/index.html".
+
+
+
 
 **Release Notes for v.0.5.1**
 * Updated the Website
